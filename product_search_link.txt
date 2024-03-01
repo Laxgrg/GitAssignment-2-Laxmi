@@ -1,0 +1,1 @@
+Product search link in the product page has been fixed. 
